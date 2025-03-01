@@ -1,6 +1,6 @@
 # 📈 Previsão de Vendas em E-commerce 🚀  
 
-Oi! 🌸 Este projeto nasceu da curiosidade de entender padrões de compras e prever tendências no e-commerce usando **Ciência de Dados** e **Machine Learning**. A ideia é pegar um monte de números e transformar em algo útil, ajudando a tomar decisões estratégicas de um jeito inteligente! 🧠✨  
+Oiê! 🌸 Este projeto nasceu da curiosidade de entender padrões de compras e prever tendências no e-commerce usando **Ciência de Dados** e **Machine Learning**. A ideia é pegar um monte de números e transformar em algo útil, ajudando a tomar decisões estratégicas de um jeito inteligente! 🧠✨  
 
 ## 📊 Visualização de Dados  
 Olha só um exemplo de como a gente pode visualizar os dados:  
