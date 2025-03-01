@@ -1,14 +1,14 @@
 # 📈 Previsão de Vendas em E-commerce 🚀  
 
-Oi, Mia aqui! 🌸 Este projeto nasceu da curiosidade de entender padrões de compras e prever tendências no e-commerce usando **Ciência de Dados** e **Machine Learning**. A ideia é pegar um monte de números e transformar em algo útil, ajudando a tomar decisões estratégicas de um jeito inteligente! 🧠✨  
+Oi, Mia aqui! ฅ(•˕ •マ⟆ Este projeto nasceu da curiosidade de entender padrões de compras e prever tendências no e-commerce usando **Ciência de Dados** e **Machine Learning**. A ideia é pegar um monte de números e transformar em algo útil, ajudando a tomar decisões estratégicas de um jeito inteligente! 🧠✨  
 
 ![Status do Projeto](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 
-## 📊 Visualização de Dados  
+## ^⎚-⎚^ Visualização de Dados  
 Olha só um exemplo de como a gente pode visualizar os dados:  
 ![Gráfico 1](./img/minha-imagem.png.png)
 
-## 🔍 O Que Este Projeto Responde?  
+## (•˕ •マ.ᐟ O Que Este Projeto Responde?  
 
 - Quais produtos vendem mais e quando? 📅  
 - Existem padrões sazonais nas vendas? 🎄📊  
@@ -60,7 +60,7 @@ Aqui estão as ferramentas mágicas que fazem tudo acontecer:
 
 ## 🛠️ Como Rodar Esse Projeto  
 
-Se quiser testar e brincar com esse modelo, siga esses passinhos:  
+⋆˚🐾˖° Se quiser testar e brincar com esse modelo, siga esses passinhos:  
 
 1️⃣ Clone este repositório:  
    ```bash
