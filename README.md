@@ -4,7 +4,10 @@ Oi! 🌸 Este projeto nasceu da curiosidade de entender padrões de compras e pr
 
 ## 📊 Visualização de Dados  
 Olha só um exemplo de como a gente pode visualizar os dados:  
-![Gráfico 1](https://raw.githubusercontent.com/mialiberata/ecommerce_sales_prediction/img/minha-imagem.png)
+![Gráfico 1](./img/minha-imagem.png.png)
+
+
+
 
 ## 🛠️ Tecnologias Utilizadas  
 Aqui estão as ferramentas mágicas que fazem tudo acontecer:  
