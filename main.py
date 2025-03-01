@@ -59,8 +59,3 @@ plt.show()
 
 # Salvando os dados gerados para upload no GitHub
 data.to_csv("ecommerce_sales_data.csv", index=False)
-
-
-
-git config --global user.email "mialiberata@gmail.com"
-git config --global user.name "mialiberata"
